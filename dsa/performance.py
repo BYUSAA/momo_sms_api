@@ -1,5 +1,5 @@
-import time
 import json
+import time
 from dsa.search import linear_search, dictionary_lookup
 
 with open("data/transactions.json") as f:
