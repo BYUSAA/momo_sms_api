@@ -1,1 +1,6 @@
-<messages></messages>
+<messages>
+    <sms id="1" type="Transfer" amount="5000" sender="Alice" receiver="Bob" timestamp="2024-01-10 10:00"/>
+    <sms id="2" type="Payment" amount="12000" sender="John" receiver="ShopX" timestamp="2024-01-11 14:30"/>
+    <sms id="3" type="Withdrawal" amount="3000" sender="Mary" receiver="Agent1" timestamp="2024-01-12 09:15"/>
+    <sms id="4" type="Deposit" amount="8000" sender="Agent2" receiver="Chris" timestamp="2024-01-13 16:45"/>
+</messages>
