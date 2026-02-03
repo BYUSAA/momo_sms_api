@@ -1,4 +1,4 @@
-# 📘 Building and Securing a REST API for MoMo SMS Transactions
+# Building and Securing a REST API for MoMo SMS Transactions
 
 ## Project Overview
 This project implements a **secure REST API** for managing Mobile Money (MoMo) SMS transactions. It parses SMS data from an XML dataset, converts it into JSON, and exposes it via a **RESTful API** built using **plain Python (`http.server`)**.
@@ -11,11 +11,12 @@ This system is designed to provide **real-world experience** in API design, auth
 
 ## Team Ownership
 **Team Eight**
-
-| Member | Role |
-|--------|------|
-| James Giir Deng | Team Lead & Backend Developer |
+_____________________________________________________________________
+| Member                  | Role                                    |
+|-------------------------|-----------------------------------------|
+| James Giir Deng         | Team Lead & Backend Developer           |
 | Byusa M Martin De Poles | Frontend Developer & Database Architect |
+_____________________________________________________________________
 
 All members actively contributed to **design, development, testing, and documentation** of this project.
 
