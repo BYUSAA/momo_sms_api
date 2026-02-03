@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "1",
+        "type": "Transfer",
+        "amount": "5000",
+        "sender": "Alice",
+        "receiver": "Bob",
+        "timestamp": "2024-01-10 10:00"
+    },
+    {
+        "id": "2",
+        "type": "Payment",
+        "amount": "12000",
+        "sender": "John",
+        "receiver": "ShopX",
+        "timestamp": "2024-01-11 14:30"
+    }
+]
+    
