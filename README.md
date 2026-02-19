@@ -91,7 +91,7 @@ Unauthorized requests return:
 
 __________________________________________________________________
 | Method | Endpoint           | Description                      |
-|--------|--------------------|----------------------------------|
+|--------|--------------------|----------------------------------| 
 | GET    | /transactions      | Get all transactions             |
 | GET    | /transactions/{id} | Get a specific transaction by ID |
 | POST   | /transactions      | Add a new transaction            |
